@@ -2,4 +2,4 @@
 
 ## Assignment 2 - CSSWars: TheSelectorAwakens
 
-### Apply CSS elements to HTML file
+### Applied CSS elements to HTML file
