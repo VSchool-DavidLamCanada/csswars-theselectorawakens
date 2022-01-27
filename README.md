@@ -1,5 +1,5 @@
-# csswars-theselectorawakens
+# V School - The Coding Bootcamp Primer Course 
 
-## V School - The Coding Bootcamp Primer Course - Assignment 2
+## Assignment 2 - CSSWars: TheSelectorAwakens
 
-### Learning how to apply CSS elements to html file
+### Applied CSS elements to HTML file
