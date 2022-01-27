@@ -1,7 +1,12 @@
-# Assignment - CSS Wars: The Selector Awakens
+# Assignment 2 - CSS Wars: The Selector Awakens
+
+## Instructions
+
 https://coursework.vschool.io/css-wars-the-selector-awakens/
 
 In this exercise you will use several css selectors to restyle elements of this page. The HTML base is already written for you and is found below for you to copy into your project.
+
+---
 
 Complete the following:
 
@@ -16,7 +21,9 @@ Complete the following:
 
     Select the "film-description" ID, make the font a little smaller and change it to an italics style.
 
-Setup
+---
+
+### Setup
 
 Create a new exercise folder and put the following inside a file named index.html:
 
