@@ -2,7 +2,7 @@
 
 ## Assignment 2 - CSS Wars: The Selector Awakens
 
-### Instructions
+### Instruction
 
 https://coursework.vschool.io/css-wars-the-selector-awakens/
 
