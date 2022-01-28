@@ -1,6 +1,6 @@
 # V School - The Coding Bootcamp Primer Course 
 
-## Assignment 2 - CSSWars: The Selector Awakens
+## Assignment 2 - CSS Wars: The Selector Awakens
 
 ### Instructions
 
