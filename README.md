@@ -1,6 +1,6 @@
 # V School - The Coding Bootcamp Primer Course 
 
-## Assignment 2 - CSSWars: The Selector Awakens - Applied CSS elements to HTML file
+## Assignment 2 - CSSWars: The Selector Awakens
 
 ### Instructions
 
